@@ -24,7 +24,7 @@ loger
 ordinateur
 ```
 
-:information at the moment the program only translates from english to french. If you want extra language options feel free to open issue or create PR.
+ℹ️ at the moment the program only translates from english to french. If you want extra language options feel free to open issue or create PR.
 
 
-It is portable and works for windows and linux. See releases for prebuild binaries.
+It is portable and works for windows 🪟 and linux 🐧. See releases for prebuild binaries.
